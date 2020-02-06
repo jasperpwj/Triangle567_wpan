@@ -1,2 +1,1 @@
-# Triangle567_wpan
-The solution of homework 2 with detailed files
+[![build status of master](https://travis-ci.org/jasperpwj/Triangle567_wpan.svg?branch=master)](https://travis-ci.org/jasperpwj/Triangle567_wpan)
